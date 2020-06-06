@@ -1,0 +1,1 @@
+python train.py --chrome_driver_path /path/to/chromedriver --checkpoint_path freezed_model.pth --exploiting

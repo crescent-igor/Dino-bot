@@ -1,0 +1,252 @@
+2020-05-26 14:42:26,918 - training - WARNING - No model found in freezed_model.pth
+2020-05-26 14:43:18,454 - training - INFO - For t 1000: mean score is 62.352941176470594 max score is 93 mean loss: 0.0 number of episode: 5
+2020-05-26 14:43:18,454 - training - INFO - t: 1000 action_index: 0 reward: 0.1 max qvalue: 0.6107955574989319 total number of eposodes so far: 5
+2020-05-26 14:43:18,460 - training - INFO - Lost actions do_nothing: 2 jump: 3 length of memory 0
+2020-05-26 14:43:18,461 - training - INFO - Win actions do_nothing: 319 jump: 676
+2020-05-26 14:43:18,461 - training - INFO - Greedy action 1000 Random action 0
+2020-05-26 14:43:18,517 - training - INFO - fps: 15.97118236823968
+2020-05-26 14:44:08,291 - training - INFO - For t 2000: mean score is 65.35211267605634 max score is 93 mean loss: 0.0 number of episode: 7
+2020-05-26 14:44:08,291 - training - INFO - t: 2000 action_index: 1 reward: 0.1 max qvalue: 0.2115580141544342 total number of eposodes so far: 12
+2020-05-26 14:44:08,291 - training - INFO - Lost actions do_nothing: 1 jump: 6 length of memory 0
+2020-05-26 14:44:08,292 - training - INFO - Win actions do_nothing: 406 jump: 587
+2020-05-26 14:44:08,292 - training - INFO - Greedy action 1000 Random action 0
+2020-05-26 14:44:08,347 - training - INFO - fps: 17.98501785936341
+2020-05-26 14:44:57,983 - training - INFO - For t 3000: mean score is 44.65346534653465 max score is 93 mean loss: 0.0 number of episode: 10
+2020-05-26 14:44:57,983 - training - INFO - t: 3000 action_index: 0 reward: 0.1 max qvalue: 0.46694135665893555 total number of eposodes so far: 22
+2020-05-26 14:44:57,983 - training - INFO - Lost actions do_nothing: 1 jump: 9 length of memory 0
+2020-05-26 14:44:57,984 - training - INFO - Win actions do_nothing: 391 jump: 599
+2020-05-26 14:44:57,984 - training - INFO - Greedy action 1000 Random action 0
+2020-05-26 14:44:58,037 - training - INFO - fps: 18.49307772349694
+2020-05-26 14:45:49,402 - training - INFO - For t 4000: mean score is 49.78021978021978 max score is 93 mean loss: 0.0 number of episode: 9
+2020-05-26 14:45:49,402 - training - INFO - t: 4000 action_index: 0 reward: 0.1 max qvalue: 0.41574904322624207 total number of eposodes so far: 31
+2020-05-26 14:45:49,402 - training - INFO - Lost actions do_nothing: 2 jump: 7 length of memory 0
+2020-05-26 14:45:49,402 - training - INFO - Win actions do_nothing: 308 jump: 683
+2020-05-26 14:45:49,402 - training - INFO - Greedy action 1000 Random action 0
+2020-05-26 14:45:49,457 - training - INFO - fps: 17.981162731875454
+2020-05-26 14:46:39,668 - training - INFO - For t 5000: mean score is 44.554455445544555 max score is 93 mean loss: 0.0 number of episode: 10
+2020-05-26 14:46:39,668 - training - INFO - t: 5000 action_index: 1 reward: 0.1 max qvalue: 0.4151058495044708 total number of eposodes so far: 41
+2020-05-26 14:46:39,668 - training - INFO - Lost actions do_nothing: 0 jump: 10 length of memory 0
+2020-05-26 14:46:39,668 - training - INFO - Win actions do_nothing: 410 jump: 580
+2020-05-26 14:46:39,668 - training - INFO - Greedy action 1000 Random action 0
+2020-05-26 14:46:39,730 - training - INFO - fps: 15.9594535976561
+2020-05-26 14:47:30,895 - training - INFO - For t 6000: mean score is 51.23456790123457 max score is 93 mean loss: 0.0 number of episode: 8
+2020-05-26 14:47:30,896 - training - INFO - t: 6000 action_index: 0 reward: 0.1 max qvalue: 0.11917616426944733 total number of eposodes so far: 49
+2020-05-26 14:47:30,896 - training - INFO - Lost actions do_nothing: 0 jump: 8 length of memory 0
+2020-05-26 14:47:30,896 - training - INFO - Win actions do_nothing: 422 jump: 570
+2020-05-26 14:47:30,896 - training - INFO - Greedy action 999 Random action 1
+2020-05-26 14:47:30,958 - training - INFO - fps: 16.013133330024548
+2020-05-26 14:48:23,913 - training - INFO - For t 7000: mean score is 45.13513513513514 max score is 93 mean loss: 0.0 number of episode: 11
+2020-05-26 14:48:23,913 - training - INFO - t: 7000 action_index: 1 reward: 0.1 max qvalue: 0.09755832701921463 total number of eposodes so far: 60
+2020-05-26 14:48:23,913 - training - INFO - Lost actions do_nothing: 2 jump: 9 length of memory 0
+2020-05-26 14:48:23,914 - training - INFO - Win actions do_nothing: 381 jump: 608
+2020-05-26 14:48:23,914 - training - INFO - Greedy action 1000 Random action 0
+2020-05-26 14:48:23,974 - training - INFO - fps: 16.48438734323478
+2020-05-26 14:49:19,784 - training - INFO - For t 8000: mean score is 49.504950495049506 max score is 93 mean loss: 0.0 number of episode: 10
+2020-05-26 14:49:19,784 - training - INFO - t: 8000 action_index: 1 reward: 0.1 max qvalue: -0.04654189199209213 total number of eposodes so far: 70
+2020-05-26 14:49:19,784 - training - INFO - Lost actions do_nothing: 2 jump: 8 length of memory 0
+2020-05-26 14:49:19,784 - training - INFO - Win actions do_nothing: 377 jump: 613
+2020-05-26 14:49:19,784 - training - INFO - Greedy action 1000 Random action 0
+2020-05-26 14:49:19,849 - training - INFO - fps: 15.222731545499748
+2020-05-26 14:49:52,439 - training - WARNING - No model found in freezed_model.pth
+2020-05-26 14:49:52,507 - training - WARNING - Could not load cache file! Starting from scratch.
+2020-05-26 14:55:09,400 - training - WARNING - No model found in model.pth
+2020-05-26 14:57:50,074 - training - WARNING - No model found in model.pth
+2020-05-26 14:59:04,456 - training - WARNING - No model found in model.pth
+2020-05-26 15:01:22,136 - training - INFO - For t 1000: mean score is 52.73291925465838 max score is 102 mean loss: 0.02981355849513784 number of episode: 16
+2020-05-26 15:01:22,136 - training - INFO - t: 1000 action_index: 0 reward: -1 max qvalue: 2.804792881011963 total number of eposodes so far: 16
+2020-05-26 15:01:22,136 - training - INFO - Lost actions do_nothing: 10 jump: 6 length of memory 120
+2020-05-26 15:01:22,137 - training - INFO - Win actions do_nothing: 752 jump: 131
+2020-05-26 15:01:22,137 - training - INFO - Greedy action 808 Random action 91
+2020-05-26 15:01:22,204 - training - INFO - fps: 6.257941593794434
+2020-05-26 15:04:32,780 - training - INFO - For t 2000: mean score is 59.5906432748538 max score is 131 mean loss: 0.007251588279890711 number of episode: 17
+2020-05-26 15:04:32,780 - training - INFO - t: 2000 action_index: 1 reward: 0.1 max qvalue: 1.1272488832473755 total number of eposodes so far: 33
+2020-05-26 15:04:32,780 - training - INFO - Lost actions do_nothing: 6 jump: 11 length of memory 235
+2020-05-26 15:04:32,781 - training - INFO - Win actions do_nothing: 638 jump: 345
+2020-05-26 15:04:32,781 - training - INFO - Greedy action 907 Random action 93
+2020-05-26 15:04:32,917 - training - INFO - fps: 4.90883385609288
+2020-05-26 15:07:57,675 - training - INFO - For t 3000: mean score is 78.01418439716312 max score is 168 mean loss: 0.004541278032731497 number of episode: 14
+2020-05-26 15:07:57,675 - training - INFO - t: 3000 action_index: 1 reward: 0.1 max qvalue: 1.116392731666565 total number of eposodes so far: 47
+2020-05-26 15:07:57,675 - training - INFO - Lost actions do_nothing: 2 jump: 12 length of memory 352
+2020-05-26 15:07:57,676 - training - INFO - Win actions do_nothing: 655 jump: 331
+2020-05-26 15:07:57,676 - training - INFO - Greedy action 898 Random action 102
+2020-05-26 15:07:57,874 - training - INFO - fps: 3.6666765743099474
+2020-05-26 15:11:30,667 - training - INFO - For t 4000: mean score is 63.37748344370861 max score is 168 mean loss: 0.00572138945091865 number of episode: 15
+2020-05-26 15:11:30,667 - training - INFO - t: 4000 action_index: 0 reward: 0.1 max qvalue: 2.1889379024505615 total number of eposodes so far: 62
+2020-05-26 15:11:30,668 - training - INFO - Lost actions do_nothing: 7 jump: 8 length of memory 463
+2020-05-26 15:11:30,668 - training - INFO - Win actions do_nothing: 623 jump: 362
+2020-05-26 15:11:30,668 - training - INFO - Greedy action 906 Random action 94
+2020-05-26 15:11:30,806 - training - INFO - fps: 4.926014140417635
+2020-05-26 15:15:31,662 - training - INFO - For t 5000: mean score is 55.193370165745854 max score is 168 mean loss: 0.007785481568105752 number of episode: 18
+2020-05-26 15:15:31,662 - training - INFO - t: 5000 action_index: 0 reward: 0.1 max qvalue: 0.7413553595542908 total number of eposodes so far: 80
+2020-05-26 15:15:31,662 - training - INFO - Lost actions do_nothing: 9 jump: 9 length of memory 578
+2020-05-26 15:15:31,663 - training - INFO - Win actions do_nothing: 710 jump: 272
+2020-05-26 15:15:31,663 - training - INFO - Greedy action 893 Random action 107
+2020-05-26 15:15:31,843 - training - INFO - fps: 4.2136488619250985
+2020-05-26 15:22:03,162 - training - INFO - For t 6000: mean score is 56.42384105960265 max score is 168 mean loss: 0.0044863853950810155 number of episode: 15
+2020-05-26 15:22:03,163 - training - INFO - t: 6000 action_index: 0 reward: 0.1 max qvalue: 0.658213198184967 total number of eposodes so far: 95
+2020-05-26 15:22:03,163 - training - INFO - Lost actions do_nothing: 3 jump: 12 length of memory 686
+2020-05-26 15:22:03,163 - training - INFO - Win actions do_nothing: 712 jump: 273
+2020-05-26 15:22:03,163 - training - INFO - Greedy action 915 Random action 85
+2020-05-26 15:22:03,849 - training - INFO - fps: 1.3648090902582992
+2020-05-26 15:30:08,198 - training - INFO - For t 7000: mean score is 62.52252252252252 max score is 168 mean loss: 0.007504511317587457 number of episode: 11
+2020-05-26 15:30:08,198 - training - INFO - t: 7000 action_index: 0 reward: 0.1 max qvalue: 0.724466860294342 total number of eposodes so far: 106
+2020-05-26 15:30:08,199 - training - INFO - Lost actions do_nothing: 6 jump: 5 length of memory 791
+2020-05-26 15:30:08,199 - training - INFO - Win actions do_nothing: 702 jump: 287
+2020-05-26 15:30:08,199 - training - INFO - Greedy action 906 Random action 94
+2020-05-26 15:30:09,017 - training - INFO - fps: 1.0963588833006113
+2020-05-26 15:44:30,686 - training - INFO - For t 8000: mean score is 0.0 max score is 38 mean loss: 0.03410535924881697 number of episode: 0
+2020-05-26 15:44:30,687 - training - INFO - t: 8000 action_index: 0 reward: 0.1 max qvalue: -0.21080826222896576 total number of eposodes so far: 115
+2020-05-26 15:44:30,687 - training - INFO - Lost actions do_nothing: 0 jump: 0 length of memory 1039
+2020-05-26 15:44:30,687 - training - INFO - Win actions do_nothing: 108 jump: 17
+2020-05-26 15:44:30,687 - training - INFO - Greedy action 114 Random action 11
+2020-05-26 15:44:30,887 - training - INFO - fps: 4.176370664367207
+2020-05-30 14:28:39,137 - training - INFO - For t 1000: mean score is 0.0 max score is 0 mean loss: 0.0 number of episode: 0
+2020-05-30 14:28:39,145 - training - INFO - t: 1000 action_index: 0 reward: 0.1 max qvalue: 8.827207565307617 total number of eposodes so far: 0
+2020-05-30 14:28:39,146 - training - INFO - Lost actions do_nothing: 0 jump: 0 length of memory 0
+2020-05-30 14:28:39,148 - training - INFO - Win actions do_nothing: 541 jump: 459
+2020-05-30 14:28:39,148 - training - INFO - Greedy action 1000 Random action 0
+2020-05-30 14:28:39,226 - training - INFO - fps: 11.170066179309977
+2020-05-30 14:29:25,504 - training - INFO - For t 2000: mean score is 49.75308641975309 max score is 67 mean loss: 0.0 number of episode: 8
+2020-05-30 14:29:25,504 - training - INFO - t: 2000 action_index: 0 reward: 0.1 max qvalue: 12.806391716003418 total number of eposodes so far: 8
+2020-05-30 14:29:25,504 - training - INFO - Lost actions do_nothing: 5 jump: 3 length of memory 0
+2020-05-30 14:29:25,505 - training - INFO - Win actions do_nothing: 890 jump: 102
+2020-05-30 14:29:25,505 - training - INFO - Greedy action 1000 Random action 0
+2020-05-30 14:29:25,544 - training - INFO - fps: 24.932999649275068
+2020-05-30 16:39:35,344 - training - INFO - For t 1000: mean score is 0.0 max score is 0 mean loss: 0.0 number of episode: 0
+2020-05-30 16:39:35,346 - training - INFO - t: 1000 action_index: 0 reward: 0.1 max qvalue: 9.25025749206543 total number of eposodes so far: 0
+2020-05-30 16:39:35,347 - training - INFO - Lost actions do_nothing: 0 jump: 0 length of memory 0
+2020-05-30 16:39:35,348 - training - INFO - Win actions do_nothing: 998 jump: 2
+2020-05-30 16:39:35,348 - training - INFO - Greedy action 1000 Random action 0
+2020-05-30 16:39:35,430 - training - INFO - fps: 11.588619993203162
+2020-05-30 16:40:17,664 - training - INFO - For t 2000: mean score is 46.58536585365854 max score is 55 mean loss: 0.0 number of episode: 4
+2020-05-30 16:40:17,664 - training - INFO - t: 2000 action_index: 0 reward: 0.1 max qvalue: 14.88268756866455 total number of eposodes so far: 4
+2020-05-30 16:40:17,664 - training - INFO - Lost actions do_nothing: 1 jump: 3 length of memory 0
+2020-05-30 16:40:17,665 - training - INFO - Win actions do_nothing: 958 jump: 38
+2020-05-30 16:40:17,665 - training - INFO - Greedy action 1000 Random action 0
+2020-05-30 16:40:17,704 - training - INFO - fps: 24.922480896526316
+2020-05-30 16:40:59,875 - training - INFO - For t 3000: mean score is 48.53658536585366 max score is 56 mean loss: 0.0 number of episode: 4
+2020-05-30 16:40:59,876 - training - INFO - t: 3000 action_index: 0 reward: 0.1 max qvalue: 14.692660331726074 total number of eposodes so far: 8
+2020-05-30 16:40:59,876 - training - INFO - Lost actions do_nothing: 1 jump: 3 length of memory 0
+2020-05-30 16:40:59,876 - training - INFO - Win actions do_nothing: 961 jump: 35
+2020-05-30 16:40:59,876 - training - INFO - Greedy action 1000 Random action 0
+2020-05-30 16:40:59,916 - training - INFO - fps: 24.900878651151746
+2020-05-30 16:41:40,834 - training - INFO - For t 4000: mean score is 0.0 max score is 56 mean loss: 0.0 number of episode: 0
+2020-05-30 16:41:40,835 - training - INFO - t: 4000 action_index: 0 reward: 0.1 max qvalue: 15.464733123779297 total number of eposodes so far: 8
+2020-05-30 16:41:40,835 - training - INFO - Lost actions do_nothing: 0 jump: 0 length of memory 0
+2020-05-30 16:41:40,835 - training - INFO - Win actions do_nothing: 1000 jump: 0
+2020-05-30 16:41:40,835 - training - INFO - Greedy action 1000 Random action 0
+2020-05-30 16:41:40,875 - training - INFO - fps: 24.89348922784735
+2020-05-30 16:42:21,876 - training - INFO - For t 5000: mean score is 0.0 max score is 56 mean loss: 0.0 number of episode: 0
+2020-05-30 16:42:21,877 - training - INFO - t: 5000 action_index: 0 reward: 0.1 max qvalue: 15.464733123779297 total number of eposodes so far: 8
+2020-05-30 16:42:21,877 - training - INFO - Lost actions do_nothing: 0 jump: 0 length of memory 0
+2020-05-30 16:42:21,877 - training - INFO - Win actions do_nothing: 1000 jump: 0
+2020-05-30 16:42:21,877 - training - INFO - Greedy action 1000 Random action 0
+2020-05-30 16:42:21,916 - training - INFO - fps: 24.872084679930026
+2020-05-30 16:43:03,680 - training - INFO - For t 6000: mean score is 59.090909090909086 max score is 65 mean loss: 0.0 number of episode: 1
+2020-05-30 16:43:03,681 - training - INFO - t: 6000 action_index: 1 reward: 0.1 max qvalue: 7.785378456115723 total number of eposodes so far: 9
+2020-05-30 16:43:03,681 - training - INFO - Lost actions do_nothing: 1 jump: 0 length of memory 0
+2020-05-30 16:43:03,681 - training - INFO - Win actions do_nothing: 965 jump: 34
+2020-05-30 16:43:03,681 - training - INFO - Greedy action 999 Random action 1
+2020-05-30 16:43:03,759 - training - INFO - fps: 12.666217713904349
+2020-05-30 16:43:47,847 - training - INFO - For t 7000: mean score is 58.45070422535211 max score is 82 mean loss: 0.0 number of episode: 7
+2020-05-30 16:43:47,847 - training - INFO - t: 7000 action_index: 0 reward: 0.1 max qvalue: 14.160198211669922 total number of eposodes so far: 16
+2020-05-30 16:43:47,847 - training - INFO - Lost actions do_nothing: 7 jump: 0 length of memory 0
+2020-05-30 16:43:47,847 - training - INFO - Win actions do_nothing: 861 jump: 132
+2020-05-30 16:43:47,847 - training - INFO - Greedy action 1000 Random action 0
+2020-05-30 16:43:47,887 - training - INFO - fps: 24.94738469957056
+2020-05-30 16:44:31,723 - training - INFO - For t 8000: mean score is 49.50617283950618 max score is 88 mean loss: 0.0 number of episode: 8
+2020-05-30 16:44:31,723 - training - INFO - t: 8000 action_index: 0 reward: 0.1 max qvalue: 15.263347625732422 total number of eposodes so far: 24
+2020-05-30 16:44:31,723 - training - INFO - Lost actions do_nothing: 3 jump: 5 length of memory 0
+2020-05-30 16:44:31,723 - training - INFO - Win actions do_nothing: 864 jump: 128
+2020-05-30 16:44:31,724 - training - INFO - Greedy action 1000 Random action 0
+2020-05-30 16:44:31,763 - training - INFO - fps: 24.94545584308221
+2020-05-30 16:45:14,885 - training - INFO - For t 9000: mean score is 46.41975308641975 max score is 88 mean loss: 0.0 number of episode: 8
+2020-05-30 16:45:14,885 - training - INFO - t: 9000 action_index: 0 reward: 0.1 max qvalue: 15.241951942443848 total number of eposodes so far: 32
+2020-05-30 16:45:14,886 - training - INFO - Lost actions do_nothing: 5 jump: 3 length of memory 0
+2020-05-30 16:45:14,886 - training - INFO - Win actions do_nothing: 907 jump: 85
+2020-05-30 16:45:14,886 - training - INFO - Greedy action 1000 Random action 0
+2020-05-30 16:45:14,925 - training - INFO - fps: 24.943378946554628
+2020-05-30 16:45:59,511 - training - INFO - For t 10000: mean score is 56.22950819672131 max score is 88 mean loss: 0.0 number of episode: 6
+2020-05-30 16:45:59,512 - training - INFO - t: 10000 action_index: 0 reward: 0.1 max qvalue: 14.99071216583252 total number of eposodes so far: 38
+2020-05-30 16:45:59,512 - training - INFO - Lost actions do_nothing: 5 jump: 1 length of memory 0
+2020-05-30 16:45:59,512 - training - INFO - Win actions do_nothing: 830 jump: 164
+2020-05-30 16:45:59,512 - training - INFO - Greedy action 1000 Random action 0
+2020-05-30 16:45:59,552 - training - INFO - fps: 24.89688781779221
+2020-05-30 16:46:42,343 - training - INFO - For t 11000: mean score is 50.00000000000001 max score is 88 mean loss: 0.0 number of episode: 4
+2020-05-30 16:46:42,343 - training - INFO - t: 11000 action_index: 0 reward: 0.1 max qvalue: 5.530858039855957 total number of eposodes so far: 42
+2020-05-30 16:46:42,343 - training - INFO - Lost actions do_nothing: 1 jump: 3 length of memory 0
+2020-05-30 16:46:42,343 - training - INFO - Win actions do_nothing: 927 jump: 69
+2020-05-30 16:46:42,344 - training - INFO - Greedy action 1000 Random action 0
+2020-05-30 16:46:42,383 - training - INFO - fps: 24.94916544725603
+2020-06-06 22:33:23,113 - training - INFO - For t 1000: mean score is 46.55737704918033 max score is 58 mean loss: 0.0 number of episode: 6
+2020-06-06 22:33:23,116 - training - INFO - t: 1000 action_index: 0 reward: 0.1 max qvalue: 12.416765213012695 total number of eposodes so far: 6
+2020-06-06 22:33:23,116 - training - INFO - Lost actions do_nothing: 4 jump: 2 length of memory 0
+2020-06-06 22:33:23,116 - training - INFO - Win actions do_nothing: 705 jump: 289
+2020-06-06 22:33:23,117 - training - INFO - Greedy action 1000 Random action 0
+2020-06-06 22:33:23,153 - training - INFO - fps: 24.954806159118494
+2020-06-06 22:34:05,807 - training - INFO - For t 2000: mean score is 74.76190476190476 max score is 86 mean loss: 0.0 number of episode: 2
+2020-06-06 22:34:05,807 - training - INFO - t: 2000 action_index: 0 reward: 0.1 max qvalue: 12.871697425842285 total number of eposodes so far: 8
+2020-06-06 22:34:05,808 - training - INFO - Lost actions do_nothing: 2 jump: 0 length of memory 0
+2020-06-06 22:34:05,808 - training - INFO - Win actions do_nothing: 942 jump: 56
+2020-06-06 22:34:05,808 - training - INFO - Greedy action 1000 Random action 0
+2020-06-06 22:34:05,847 - training - INFO - fps: 24.90531441125824
+2020-06-06 22:34:50,441 - training - INFO - For t 3000: mean score is 61.63934426229508 max score is 100 mean loss: 0.0 number of episode: 6
+2020-06-06 22:34:50,442 - training - INFO - t: 3000 action_index: 0 reward: 0.1 max qvalue: 13.926962852478027 total number of eposodes so far: 14
+2020-06-06 22:34:50,442 - training - INFO - Lost actions do_nothing: 3 jump: 3 length of memory 0
+2020-06-06 22:34:50,442 - training - INFO - Win actions do_nothing: 861 jump: 133
+2020-06-06 22:34:50,442 - training - INFO - Greedy action 1000 Random action 0
+2020-06-06 22:34:50,481 - training - INFO - fps: 24.95495463334821
+2020-06-06 22:35:34,959 - training - INFO - For t 4000: mean score is 47.160493827160494 max score is 100 mean loss: 0.0 number of episode: 8
+2020-06-06 22:35:34,959 - training - INFO - t: 4000 action_index: 0 reward: 0.1 max qvalue: 14.040830612182617 total number of eposodes so far: 22
+2020-06-06 22:35:34,959 - training - INFO - Lost actions do_nothing: 4 jump: 4 length of memory 0
+2020-06-06 22:35:34,959 - training - INFO - Win actions do_nothing: 901 jump: 91
+2020-06-06 22:35:34,959 - training - INFO - Greedy action 1000 Random action 0
+2020-06-06 22:35:34,999 - training - INFO - fps: 24.952133925065738
+2020-06-06 22:36:19,626 - training - INFO - For t 5000: mean score is 47.77777777777778 max score is 100 mean loss: 0.0 number of episode: 8
+2020-06-06 22:36:19,628 - training - INFO - t: 5000 action_index: 0 reward: 0.1 max qvalue: 13.730199813842773 total number of eposodes so far: 30
+2020-06-06 22:36:19,632 - training - INFO - Lost actions do_nothing: 5 jump: 3 length of memory 0
+2020-06-06 22:36:19,633 - training - INFO - Win actions do_nothing: 866 jump: 126
+2020-06-06 22:36:19,633 - training - INFO - Greedy action 1000 Random action 0
+2020-06-06 22:36:19,687 - training - INFO - fps: 16.138269628854395
+2020-06-06 22:37:04,419 - training - INFO - For t 6000: mean score is 50.42253521126761 max score is 100 mean loss: 0.0 number of episode: 7
+2020-06-06 22:37:04,420 - training - INFO - t: 6000 action_index: 0 reward: 0.1 max qvalue: 14.909989356994629 total number of eposodes so far: 37
+2020-06-06 22:37:04,420 - training - INFO - Lost actions do_nothing: 5 jump: 2 length of memory 0
+2020-06-06 22:37:04,422 - training - INFO - Win actions do_nothing: 863 jump: 130
+2020-06-06 22:37:04,423 - training - INFO - Greedy action 999 Random action 1
+2020-06-06 22:37:04,493 - training - INFO - fps: 13.370387725891852
+2020-06-06 22:37:49,248 - training - INFO - For t 7000: mean score is 49.382716049382715 max score is 100 mean loss: 0.0 number of episode: 8
+2020-06-06 22:37:49,248 - training - INFO - t: 7000 action_index: 0 reward: 0.1 max qvalue: 14.820008277893066 total number of eposodes so far: 45
+2020-06-06 22:37:49,249 - training - INFO - Lost actions do_nothing: 7 jump: 1 length of memory 0
+2020-06-06 22:37:49,249 - training - INFO - Win actions do_nothing: 907 jump: 85
+2020-06-06 22:37:49,249 - training - INFO - Greedy action 1000 Random action 0
+2020-06-06 22:37:49,288 - training - INFO - fps: 24.92810954735641
+2020-06-06 22:38:34,841 - training - INFO - For t 8000: mean score is 49.75308641975309 max score is 100 mean loss: 0.0 number of episode: 8
+2020-06-06 22:38:34,842 - training - INFO - t: 8000 action_index: 0 reward: 0.1 max qvalue: 14.62423324584961 total number of eposodes so far: 53
+2020-06-06 22:38:34,842 - training - INFO - Lost actions do_nothing: 5 jump: 3 length of memory 0
+2020-06-06 22:38:34,843 - training - INFO - Win actions do_nothing: 867 jump: 125
+2020-06-06 22:38:34,844 - training - INFO - Greedy action 1000 Random action 0
+2020-06-06 22:38:34,914 - training - INFO - fps: 13.732321000022917
+2020-06-06 22:39:19,154 - training - INFO - For t 9000: mean score is 53.521126760563384 max score is 100 mean loss: 0.0 number of episode: 7
+2020-06-06 22:39:19,154 - training - INFO - t: 9000 action_index: 0 reward: 0.1 max qvalue: 11.499687194824219 total number of eposodes so far: 60
+2020-06-06 22:39:19,154 - training - INFO - Lost actions do_nothing: 6 jump: 1 length of memory 0
+2020-06-06 22:39:19,154 - training - INFO - Win actions do_nothing: 875 jump: 118
+2020-06-06 22:39:19,155 - training - INFO - Greedy action 1000 Random action 0
+2020-06-06 22:39:19,194 - training - INFO - fps: 24.950798022640882
+2020-06-06 22:40:03,387 - training - INFO - For t 10000: mean score is 51.358024691358025 max score is 100 mean loss: 0.0 number of episode: 8
+2020-06-06 22:40:03,388 - training - INFO - t: 10000 action_index: 0 reward: 0.1 max qvalue: 12.928791046142578 total number of eposodes so far: 68
+2020-06-06 22:40:03,388 - training - INFO - Lost actions do_nothing: 6 jump: 2 length of memory 0
+2020-06-06 22:40:03,388 - training - INFO - Win actions do_nothing: 849 jump: 143
+2020-06-06 22:40:03,388 - training - INFO - Greedy action 1000 Random action 0
+2020-06-06 22:40:03,427 - training - INFO - fps: 24.950204334144324
+2020-06-06 22:40:48,272 - training - INFO - For t 11000: mean score is 49.01234567901235 max score is 100 mean loss: 0.0 number of episode: 8
+2020-06-06 22:40:48,273 - training - INFO - t: 11000 action_index: 0 reward: 0.1 max qvalue: 13.231531143188477 total number of eposodes so far: 76
+2020-06-06 22:40:48,273 - training - INFO - Lost actions do_nothing: 6 jump: 2 length of memory 0
+2020-06-06 22:40:48,273 - training - INFO - Win actions do_nothing: 890 jump: 102
+2020-06-06 22:40:48,273 - training - INFO - Greedy action 1000 Random action 0
+2020-06-06 22:40:48,312 - training - INFO - fps: 24.949907500490752
+2020-06-06 22:41:33,348 - training - INFO - For t 12000: mean score is 46.91358024691358 max score is 100 mean loss: 0.0 number of episode: 8
+2020-06-06 22:41:33,348 - training - INFO - t: 12000 action_index: 0 reward: 0.1 max qvalue: 14.486760139465332 total number of eposodes so far: 84
+2020-06-06 22:41:33,348 - training - INFO - Lost actions do_nothing: 3 jump: 5 length of memory 0
+2020-06-06 22:41:33,348 - training - INFO - Win actions do_nothing: 897 jump: 95
+2020-06-06 22:41:33,348 - training - INFO - Greedy action 1000 Random action 0
+2020-06-06 22:41:33,388 - training - INFO - fps: 24.952876154894135
